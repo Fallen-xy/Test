@@ -1,4 +1,5 @@
 #  
 just for test
 
-The new version.
+a new line
+new lines
